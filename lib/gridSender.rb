@@ -1,6 +1,6 @@
 require 'sendgrid-ruby'
 require 'smtpapi'
-require 'YAML'
+require 'yaml'
 
 module GridSender
 
