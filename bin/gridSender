@@ -41,5 +41,8 @@ loop do
 
     res = client.send(mail)
     puts "Email: #{email} -- UID: #{uid} --  Status Code: #{res.code}"
+    puts "sleeping ${varArray['sleepTime']} seconds"
+    sleep(varArray['sleepTime'])
+  
   end
 end
