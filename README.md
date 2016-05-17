@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Edit the fields in the config.txt file under the lib/ directory and fire away.
 
 ## Development
 
