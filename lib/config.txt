@@ -1,0 +1,7 @@
+apiKey: 'key goes here'
+fromAddress: evil@badguy.org
+subject: Subject
+category: Category
+templateFile: '/user/home/project/template.hbs'
+emailsFile: '/user/home/project/emails.txt'
+uidsFile: '/user/home/project/uids.txt'
